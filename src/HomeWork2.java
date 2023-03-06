@@ -5,8 +5,8 @@ public class HomeWork2 {
         task3();
         task4();
         task5();
-        task6_7();
-        task8();
+        task6();
+        task7();
     }
     public static void task1 () {
         System.out.println("Задача 1");
@@ -68,7 +68,7 @@ public class HomeWork2 {
         System.out.println(frog);
 
     }
-    public static void task6_7 () {
+    public static void task6 () {
         System.out.println("Задача 6,7");
         //Задать переменную var с весом каждого боксера, произвести вычисления согласно условий Задача 6
         var unitBox1 = 78.2;
@@ -84,7 +84,7 @@ public class HomeWork2 {
         System.out.println(divisionMass);
 
     }
-    public static void task8 () {
+    public static void task7 () {
         //Задать переменые по общему количеству рабочих часов и рабочих часов в сутки
         System.out.println("Задача 8");
         var totalHour = 640;
